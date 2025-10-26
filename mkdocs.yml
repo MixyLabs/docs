@@ -38,7 +38,7 @@ markdown_extensions:
 
 
 nav:
-  - Home: index.md
+  - Home: README.md
   - Getting Started:
       - Device setup: getting_started/device_setup.md
       - Software selection: getting_started/software_selection.md
