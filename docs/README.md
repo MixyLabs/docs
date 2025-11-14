@@ -6,11 +6,10 @@ Here you can learn how to:
  - [choose software best suited for your use case](getting_started/software_selection.md)
  - configure them to your liking
 
+!!! warning "🚧 In construction"
+    Documentation is far from complete.
+
 ## Small project showcase/story
 
 TODO
 
-## Other stuff
-
-TODO
-Point at stuff everyone should really read.
