@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mixylabs.github.io/docs/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://mixylabs.github.io/docs/FAQ/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://mixylabs.github.io/docs/customization/hardware/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://mixylabs.github.io/docs/getting_started/device_setup/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://mixylabs.github.io/docs/getting_started/software_selection/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://mixylabs.github.io/docs/getting_started/software_config/setup_meej/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://mixylabs.github.io/docs/getting_started/software_config/setup_mixy_connect/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+</urlset>
